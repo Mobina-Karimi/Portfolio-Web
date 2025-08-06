@@ -9,6 +9,9 @@ import img8 from "../assets/responsive.png";
 import img9 from "../assets/git.png";
 import img10 from "../assets/materialUi.png";
 import img11 from "../assets/sql.png";
+import img12 from "../assets/tailwind.png";
+import img13 from "../assets/graphQl.png";
+import img14 from "../assets/photoshop.png";
 
 const SkillsData = [
   {
@@ -65,6 +68,21 @@ const SkillsData = [
     id: "11",
     image: img11,
     title: "SQL SERVER",
+  },
+  {
+    id: "12",
+    image: img12,
+    title: "TAILWIND",
+  },
+  {
+    id: "13",
+    image: img13,
+    title: "GRAPHQL",
+  },
+  {
+    id: "13",
+    image: img14,
+    title: "PHOTOSHOP",
   },
 ];
 
